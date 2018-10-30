@@ -61,6 +61,14 @@
     color: #777777;
 }
 
+
+nav ul li a {
+	color: #b1adb3;
+	text-decoration: none;
+	-webkit-transition: color .4s;
+	transition: color .4s;
+}
+
 html {
 	position: relative;
 }
